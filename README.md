@@ -10,4 +10,4 @@
 5. `npm i @reduxjs/toolkit react-redux` for the Redux
 6. `npm i react-router-dom` for the navigation
 
-website: my-githubsearch.netlify.app
+website: `my-githubsearch.netlify.app`
