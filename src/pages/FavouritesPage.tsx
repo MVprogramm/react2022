@@ -19,7 +19,7 @@ const FavouritesPage = () => {
                 {
                     favourites.map(fav => (
                         <li key={fav}>
-                            <a href={fav} target="_blank">{fav}</a>
+                            <a href={fav} rel="noreferrer" target="_blank">{fav}</a>
                         </li>
                     ))
                 }
