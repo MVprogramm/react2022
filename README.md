@@ -9,3 +9,5 @@
 4. use tailwind documentation for further steps to set  up the library
 5. `npm i @reduxjs/toolkit react-redux` for the Redux
 6. `npm i react-router-dom` for the navigation
+
+website: my-githubsearch.netlify.app
